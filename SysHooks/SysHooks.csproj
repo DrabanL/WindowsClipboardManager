@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RabanSoft.SysHooks</RootNamespace>
-    <AssemblyName>SysHooks</AssemblyName>
+    <AssemblyName>RabanSoft.SysHooks</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

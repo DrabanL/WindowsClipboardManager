@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RabanSoft.SysInvoke</RootNamespace>
-    <AssemblyName>SysInvoke</AssemblyName>
+    <AssemblyName>RabanSoft.SysInvoke</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
