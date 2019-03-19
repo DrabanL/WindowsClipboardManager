@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Basic windows DLL wrapper")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("RabanSoft.")]
-[assembly: AssemblyProduct("Windows Clipboard Manager")]
+[assembly: AssemblyProduct("SysInvoke")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("RabanSoft.")]
 [assembly: AssemblyCulture("")]

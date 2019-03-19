@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Basic windows hook implementation library")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("RabanSoft.")]
-[assembly: AssemblyProduct("Windows Clipboard Manager")]
+[assembly: AssemblyProduct("SysHooks")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("RabanSoft.")]
 [assembly: AssemblyCulture("")]
