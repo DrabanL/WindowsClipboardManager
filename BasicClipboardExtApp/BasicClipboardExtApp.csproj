@@ -42,6 +42,12 @@
     </StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="RabanSoft.SysHooks, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RabanSoft.SysHooks.1.0.0.1\lib\net40\RabanSoft.SysHooks.dll</HintPath>
+    </Reference>
+    <Reference Include="RabanSoft.SysInvoke, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RabanSoft.SysInvoke.1.0.0.1\lib\net40\RabanSoft.SysInvoke.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Windows.Forms" />
@@ -57,19 +63,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Core\Core.csproj">
-      <Project>{43717366-A159-490B-88AD-1FCE0953E959}</Project>
+      <Project>{43717366-a159-490b-88ad-1fce0953e959}</Project>
       <Name>Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SysHooks\SysHooks.csproj">
-      <Project>{C0EC6700-918D-4668-A866-A9B8612A198A}</Project>
-      <Name>SysHooks</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SysInvoke\SysInvoke.csproj">
-      <Project>{15A643B3-E779-4BE6-B57D-214DC825041A}</Project>
-      <Name>SysInvoke</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

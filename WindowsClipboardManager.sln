@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysHooks", "SysHooks\SysHooks.csproj", "{C0EC6700-918D-4668-A866-A9B8612A198A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysInvoke", "SysInvoke\SysInvoke.csproj", "{15A643B3-E779-4BE6-B57D-214DC825041A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{43717366-A159-490B-88AD-1FCE0953E959}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicClipboardExtApp", "BasicClipboardExtApp\BasicClipboardExtApp.csproj", "{A5C678B3-4A98-4749-B102-4905F1BEF607}"
@@ -17,14 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0EC6700-918D-4668-A866-A9B8612A198A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0EC6700-918D-4668-A866-A9B8612A198A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0EC6700-918D-4668-A866-A9B8612A198A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0EC6700-918D-4668-A866-A9B8612A198A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15A643B3-E779-4BE6-B57D-214DC825041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15A643B3-E779-4BE6-B57D-214DC825041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15A643B3-E779-4BE6-B57D-214DC825041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15A643B3-E779-4BE6-B57D-214DC825041A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43717366-A159-490B-88AD-1FCE0953E959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43717366-A159-490B-88AD-1FCE0953E959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43717366-A159-490B-88AD-1FCE0953E959}.Release|Any CPU.ActiveCfg = Release|Any CPU
