@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SysHooks")]
+[assembly: AssemblyTitle("RabanSoft.SysHooks")]
 [assembly: AssemblyDescription("Basic windows hook implementation library")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("RabanSoft.")]
